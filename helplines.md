@@ -119,7 +119,7 @@ Personalübersicht
 
 | **Ort** | **Stelle**          | **Telefonnummer** | **Öffnungszeiten**             | **Anmerkungen**    |
 | ------- | ------------------- | ----------------- | ------------------------------ | ------------------ |
-| Stadt   | z.B. Gesundheitsamt | xxxx - xxxxxx     | z.B. mo - fr, 7:00 - 18:00 Uhr | was bieten die an? |
+| Rheinland-Pfalz | Fieberhotline | 0800 99 00 400 | 24 h | Telefon-Hotline Coronavirus |
 
 Personalübersicht
 
